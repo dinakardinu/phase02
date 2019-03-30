@@ -1,0 +1,43 @@
+body{
+  background-color: #1AA1A6;
+}
+header{
+  font-style: italic;
+  background-color: #F7DC6F;
+  text-align:center;
+}
+
+img{
+  /*text-align: center;*/
+  float: right;
+  width: 50%;
+  height: 50%;
+
+}
+a{
+  float: right;
+}
+.child{
+  width:20%;
+  padding: 1%;
+  margin: 1%;
+  text-align: center;
+  border-radius: 3px solid #fff;
+/* display: block; */
+/* background-color: red; */
+justify-content: space-around;
+}
+.child img{
+  width: 200px;
+  height: 200px;
+
+}
+
+
+.link{
+  /* text-decoration:none; */
+  /* background-color: red; */
+  color: red;
+  border: 2%;
+
+}

@@ -1,0 +1,32 @@
+body{
+  background-color: skyblue;
+
+}
+img{
+  width: 10%;
+  height: 15%;
+  border: 2px solid yellow;
+  background-color: pink;
+}
+.parent{
+  width: 95%;
+  height: 95%;
+  border: 2px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1%;
+
+}
+.left{
+  width: 40%;
+  border: 2px solid red;
+  padding: 2%;
+  margin: 2%;
+
+}
+.right{
+  width: 45%;
+  border: 2px solid red;
+  margin: 2%;
+  padding: 1%;
+}
